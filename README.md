@@ -1,21 +1,2 @@
-```
-
-# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
-
-![image](https://user-images.githubusercontent.com/77756047/211304452-220fedf0-f91b-490f-8a65-a60ce860bc5c.png)
-
-## Ferramentas utilizadas:
-
-* HTML
-
-* CSS
-
-* Flex-box
-
-## Feito por:
-
-### Joana Santos
-
-### Linkedin: https://www.linkedin.com/school/aluracursos/
-
-```
+<h1>Projeto de aprensentação</h1>
+Projeto que fiz em uma formação chamada "A partir do zero: HTML e CSS para projetos web" na Alura. Projeto na qual tem um site de apresentação de uma pessoa.

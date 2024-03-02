@@ -142,3 +142,18 @@ body {
         width: auto;
     }
 }
+
+@media (max-width: 320px) {
+
+    .cabecalho__menu__link{
+        text-align: center;
+    }
+
+    .apresentacao__conteudo__titulo{
+        font-size: 1.90rem;
+    }
+
+    .apresentacao__links__navegacao {
+        width: 80%;
+    }
+}
